@@ -1,13 +1,8 @@
 # Git Flow Diagram
 
 ```mermaid
- ---
-
- title: Example Git diagram
-
- ---
-
- gitGraph
+gitGraph
+    title Example Git diagram
     commit
     commit
     branch develop
