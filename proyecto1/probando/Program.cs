@@ -32,4 +32,5 @@ Console.WriteLine("Hello, Platzi World Sebastian!");
 
 string stripe_api_key="sk_test_4eC39HqLyjWDvYjJt9nqT3m00Qy2ZtXoL";
 
+string testingconnectio="Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;";    
 
