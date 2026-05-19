@@ -29,3 +29,7 @@ else
 }
 
 Console.WriteLine("Hello, Platzi World Sebastian!");
+
+string stripe_api_key="sk_test_4acacac";
+
+
