@@ -30,6 +30,6 @@ else
 
 Console.WriteLine("Hello, Platzi World Sebastian!");
 
-string stripe_api_key="sk_test_4acacac";
+string stripe_api_key="sk_test_4eC39HqLyjWDvYjJt9nqT3m00Qy2ZtXoL";
 
 
